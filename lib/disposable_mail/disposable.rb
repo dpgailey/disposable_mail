@@ -3,6 +3,16 @@ module DisposableMail
     # Returns a list with the disposable mail domains
     def list
       [
+        "soioa.com",
+        "ckoie.com",
+        "tqoai.com",
+        "4057.com",
+        "chaichuang.com",
+        "sawoe.com",
+        "loapq.com",
+        "cjpeg.com",
+        "miauj.com",
+        "emltmp.com",
         "0-mail.com",
         "027168.com",
         "0815.ru",
