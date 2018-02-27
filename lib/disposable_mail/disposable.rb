@@ -2145,7 +2145,7 @@ module DisposableMail
     def include?(mail)
       return false if mail.nil?
       domain = mail[/@(.+)/, 1]
-      list.bsearch { |d| domain <=> d }
+      list.include?(domain)
     end
   end
 end
