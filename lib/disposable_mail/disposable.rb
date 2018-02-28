@@ -292,6 +292,7 @@ module DisposableMail
         "californiafitnessdeals.com",
         "cam4you.cc",
         "card.zp.ua",
+        "carins.io",
         "casualdx.com",
         "cbair.com",
         "cc.liamria",
