@@ -1369,6 +1369,7 @@ module DisposableMail
         "nus.edu.sg",
         "nuts2trade.com",
         "nwldx.com",
+        "nwytg.com",
         "ny7.me",
         "o.cavi.mx",
         "o.civx.org",
