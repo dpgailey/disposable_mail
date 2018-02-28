@@ -1260,6 +1260,7 @@ module DisposableMail
         "motique.de",
         "mountainregionallibrary.net",
         "mox.pp.ua",
+        "mozej.com",
         "ms9.mailslite.com",
         "msa.minsmail.com",
         "msb.minsmail.com",
