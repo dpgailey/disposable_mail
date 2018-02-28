@@ -1483,6 +1483,7 @@ module DisposableMail
         "qipmail.net",
         "qisdo.com",
         "qisoa.com",
+        "qocya.com",
         "qoika.com",
         "qs.dp76.com",
         "qs.grish.de",
