@@ -581,6 +581,7 @@ module DisposableMail
         "emkei.ml",
         "emkei.tk",
         "eml.pp.ua",
+        "emlpro.com",
         "emltmp.com",
         "emz.net",
         "endrix.org",
