@@ -2159,6 +2159,7 @@ module DisposableMail
         "zetmail.com",
         "zippymail.info",
         "zipsendtest.com",
+        "ziyap.com",
         "zoaxe.com",
         "zoemail.com",
         "zoemail.net",
